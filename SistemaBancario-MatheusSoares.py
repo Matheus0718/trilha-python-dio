@@ -39,7 +39,5 @@ while operacao != 4:
      elif operacao == 3:
        print("====================EXTRATO============\n    o seu saldo é de R$ :{}".format(saldo))
        quit()
-     elif operacao == 4:
-        break
      else:
         print("Opção invalida, selecione a operação desejada")
